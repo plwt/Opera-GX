@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "version": "9.0",
+  "name": "Opera GX",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(20, 17, 26)",
+      "toolbar_text": "rgb(251, 29, 78)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(251, 29, 78)",
+      "toolbar_field": "rgb(20, 17, 26)",
+      "toolbar_field_text": "rgb(251, 29, 78)",
+      "toolbar_field_border": "rgb(20, 17, 26)",
+      "toolbar_field_border_focus": "rgb(20, 17, 26)",
+      "tab_line": "rgb(251, 29, 78)",
+      "popup": "rgb(20, 17, 26)",
+      "popup_border": "rgb(20, 17, 26)",
+      "ntp_background": "rgb(20, 17, 26)",
+      "ntp_background_text": "rgb(251, 29, 78)",
+      "ntp_text": "rgb(251, 29, 78)",
+      "sidebar": "rgb(20, 17, 26)",
+      "sidebar_text": "rgb(251, 29, 78)",
+      "sidebar_border": "rgb(251, 29, 78)",
+      "button_background_hover": "rgb(20, 17, 26)",
+      "popup_text": "rgb(251, 29, 78)",
+      "tab_loading": "rgb(251, 29, 78)"
+    }
+  }
+}
